@@ -1,0 +1,25 @@
+{
+  "name": "curso-cypress-intermediario",
+  "version": "1.0.0",
+  "description": "Automação de testes com Cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joycebastos/cypress-ui-tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joycebastos/cypress-ui-tests"
+  },
+  "homepage": "",
+  "devDependencies": {
+    "cypress": "^3.8.0",
+    "faker": "^4.1.0"
+  }
+}
+
